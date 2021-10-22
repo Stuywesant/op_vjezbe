@@ -1,0 +1,19 @@
+﻿  zad2.cpp
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\op vježbe\vjezba1\zad2\zad2.cpp(157): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zad2.vcxproj -> C:\Users\Asus\Desktop\OP vježbe\vjezba1\Debug\zad2.exe
