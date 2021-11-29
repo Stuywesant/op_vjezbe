@@ -1,0 +1,5 @@
+﻿  zad1.cpp
+c:\users\asus\desktop\privatno\op\op vježbe\vjezba6\zad1\zad1.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\privatno\op\op vježbe\vjezba6\zad1\zad1.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\privatno\op\op vježbe\vjezba6\zad1\zad1.cpp(195): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zad1.vcxproj -> C:\Users\Asus\Desktop\Privatno\OP\OP vježbe\vjezba6\Debug\zad1.exe
